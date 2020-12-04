@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://watarona.github.io/categories/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/tags/git/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/tags/go/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/tags/hugo/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/post/new/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/post/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/tags/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/categories/tech/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://watarona.github.io/</loc>
+    <lastmod>2019-10-22T18:40:33+09:00</lastmod>
+  </url>
+  
+</urlset>
