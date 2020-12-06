@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on watarona tech blog</title>
+    <link>https://blog.watarona.me/tags/</link>
+    <description>Recent content in Tags on watarona tech blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2019. Theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 18:40:33 +0900</lastBuildDate><atom:link href="https://blog.watarona.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>https://blog.watarona.me/tags/git/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://blog.watarona.me/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://blog.watarona.me/tags/go/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://blog.watarona.me/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://blog.watarona.me/tags/hugo/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://blog.watarona.me/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
