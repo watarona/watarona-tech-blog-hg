@@ -6,7 +6,7 @@ copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-styl
 
 [params]
   author = "watarona"
-  description = "example"
+  description = "watarona tech blog"
   github = "watarona"
   facebook = "example"
   twitter = "watarona"
@@ -15,5 +15,24 @@ copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-styl
   email = "watarona0330@gmail.com"
   utterances = "example/example.github.io"
   avatar = "https://example.com/images/avatar.png"
-  url = "https://example.com"
+  url = "https://blog.watarona.me"
   keywords = "blog, google analytics"
+
+  [markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
