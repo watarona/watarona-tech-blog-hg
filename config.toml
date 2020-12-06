@@ -1,4 +1,4 @@
-baseURL = "https://blog.watarona.me/"
+baseURL = "https:/https://watarona.github.io/watarona-tech-blog/"
 title = "watarona tech blog"
 googleAnalytics = "UA-123-456-789"
 theme = "github-style"
@@ -15,7 +15,7 @@ copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-styl
   email = "watarona0330@gmail.com"
   utterances = "example/example.github.io"
   avatar = "https://example.com/images/avatar.png"
-  url = "https://blog.watarona.me"
+  url = "https://https://watarona.github.io/watarona-tech-blog/"
   keywords = "blog, google analytics"
 
   [markup]
